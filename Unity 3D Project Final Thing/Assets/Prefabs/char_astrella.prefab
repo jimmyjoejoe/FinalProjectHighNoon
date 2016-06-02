@@ -48,7 +48,6 @@ GameObject:
   - 114: {fileID: 11448254}
   - 114: {fileID: 11435552}
   - 114: {fileID: 11445306}
-  - 114: {fileID: 11435266}
   m_Layer: 0
   m_Name: char_astrella
   m_TagString: Player
@@ -2012,17 +2011,6 @@ MonoBehaviour:
   Player: {fileID: 0}
   Haskey: 0
   Keytext: {fileID: 0}
---- !u!114 &11435266
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 101002}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 77b3d7cf401379b45bbd39f1c72be03a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &11435552
 MonoBehaviour:
   m_ObjectHideFlags: 1
